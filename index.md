@@ -270,7 +270,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Brad Crittenden
-1. Brad Geesaman
 1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
@@ -728,7 +727,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gustavo Padovan (Collabora, Linux Kernel)
 1. Guy Lunardi (Collabora)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
-1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hao Ye
@@ -1036,6 +1034,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kiran Jonnalagadda
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
 1. Konstantin Baranovskiy
+1. Konstantina Papadea
 1. Koz Ross (former FSF associate student member)
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
@@ -1217,7 +1216,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Max Burke
 1. Max Perrello
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
-1. Maximiliano Ferrer G. (@PandaFoss)
 1. Maxine Aubrey (NixOS contributor)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
